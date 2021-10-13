@@ -1,6 +1,9 @@
 # RichWishList
 
 RichWishList is a sample application demonstrating .net core 5 Web API's.
+It has a single controller, with a swagger page for testing the API calls.
+
+It uses the Repository-Service pattern to demonstrate seperation of concerns.
 
 This project contains:
 
@@ -9,6 +12,7 @@ This project contains:
 - Models project
 - Repository project
 - xUnit test project
+- Nuxt client project
 
 ![web-screenshot](https://user-images.githubusercontent.com/23123878/137140384-81a27928-b196-4169-b48e-4272d34ed842.jpeg)
 
