@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichWishList", "RichWishList\RichWishList.csproj", "{BE451D52-52E5-4267-86BD-66AD746535AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichWishList.Models", "RichWishList.Models\RichWishList.Models.csproj", "{B0493A88-A662-4B30-851E-BBA117392A81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichWishList.Services", "RichWishList.Services\RichWishList.Services.csproj", "{77062ADD-73B8-4735-9F48-66721B297B86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichWishList.Tests", "RichWishList.Tests\RichWishList.Tests.csproj", "{4FBD6658-4FAB-4C9E-8F0F-389E7B7FA1BF}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RichWishList.NuxtClient", "RichWishList.NuxtClient\", "{7F26A8D0-75D1-4134-B54F-8DF5F844C130}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63986"
+		Debug.AspNetCompiler.PhysicalPath = "RichWishList.NuxtClient\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63986\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63986"
+		Release.AspNetCompiler.PhysicalPath = "RichWishList.NuxtClient\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63986\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63986"
+		SlnRelativePath = "RichWishList.NuxtClient\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichWishList.Repository", "RichWishList.Repository\RichWishList.Repository.csproj", "{7FA20F58-226F-47E1-833C-AF52CCC50B24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE451D52-52E5-4267-86BD-66AD746535AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE451D52-52E5-4267-86BD-66AD746535AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE451D52-52E5-4267-86BD-66AD746535AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE451D52-52E5-4267-86BD-66AD746535AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0493A88-A662-4B30-851E-BBA117392A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0493A88-A662-4B30-851E-BBA117392A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0493A88-A662-4B30-851E-BBA117392A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0493A88-A662-4B30-851E-BBA117392A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77062ADD-73B8-4735-9F48-66721B297B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77062ADD-73B8-4735-9F48-66721B297B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77062ADD-73B8-4735-9F48-66721B297B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77062ADD-73B8-4735-9F48-66721B297B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBD6658-4FAB-4C9E-8F0F-389E7B7FA1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBD6658-4FAB-4C9E-8F0F-389E7B7FA1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBD6658-4FAB-4C9E-8F0F-389E7B7FA1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBD6658-4FAB-4C9E-8F0F-389E7B7FA1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F26A8D0-75D1-4134-B54F-8DF5F844C130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F26A8D0-75D1-4134-B54F-8DF5F844C130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F26A8D0-75D1-4134-B54F-8DF5F844C130}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F26A8D0-75D1-4134-B54F-8DF5F844C130}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7FA20F58-226F-47E1-833C-AF52CCC50B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA20F58-226F-47E1-833C-AF52CCC50B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA20F58-226F-47E1-833C-AF52CCC50B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA20F58-226F-47E1-833C-AF52CCC50B24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {776DE27F-D8C5-4A75-B964-0D43470A157F}
+	EndGlobalSection
+EndGlobal

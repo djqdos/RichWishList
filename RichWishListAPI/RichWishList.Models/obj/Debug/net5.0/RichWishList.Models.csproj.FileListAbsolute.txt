@@ -1,0 +1,12 @@
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\bin\Debug\net5.0\RichWishList.Models.deps.json
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\bin\Debug\net5.0\RichWishList.Models.dll
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\bin\Debug\net5.0\ref\RichWishList.Models.dll
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\bin\Debug\net5.0\RichWishList.Models.pdb
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\obj\Debug\net5.0\RichWishList.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\obj\Debug\net5.0\RichWishList.Models.AssemblyInfoInputs.cache
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\obj\Debug\net5.0\RichWishList.Models.AssemblyInfo.cs
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\obj\Debug\net5.0\RichWishList.Models.csproj.CoreCompileInputs.cache
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\obj\Debug\net5.0\RichWishList.Models.dll
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\obj\Debug\net5.0\ref\RichWishList.Models.dll
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\obj\Debug\net5.0\RichWishList.Models.pdb
+E:\dev\RichWishList\RichWishListAPI\RichWishList.Models\obj\Debug\net5.0\RichWishList.Models.csproj.AssemblyReference.cache
