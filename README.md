@@ -30,6 +30,6 @@ navigate to localhost:3000
 
 # Unit Tests
 
-
+To run the Unit Tests, open the Test Explorer, and click the Play button
 
 ![xunit-tests](https://user-images.githubusercontent.com/23123878/137140370-7cd6ac77-79ec-434d-91ed-74957ee8a48c.png)
