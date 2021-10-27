@@ -1,0 +1,11 @@
+<div>
+    <div *ngFor="let item of items" class="wishlistitem">
+        <div class="itemname">{{ item.itemName }}</div>
+        <div class="quantity">{{ item.quantity }}</div>        
+        <div class="buttons">
+            <button class="increase" (click)="increase(item.id)">+</button>
+            <button class="decrease" (click)="decrease(item.id)">-</button>
+            <button class="delete" (click)="deleteItem(item.id)">x</button>
+        </div>
+    </div>
+</div>

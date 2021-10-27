@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\RichWishList.Models.csproj": {}
+    "D:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\RichWishList.Models.csproj": {}
   },
   "projects": {
-    "E:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\RichWishList.Models.csproj": {
+    "D:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\RichWishList.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\RichWishList.Models.csproj",
+        "projectUniqueName": "D:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\RichWishList.Models.csproj",
         "projectName": "RichWishList.Models",
-        "projectPath": "E:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\RichWishList.Models.csproj",
+        "projectPath": "D:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\RichWishList.Models.csproj",
         "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-        "outputPath": "E:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\obj\\",
+        "outputPath": "D:\\dev\\RichWishList\\RichWishListAPI\\RichWishList.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -24,7 +21,7 @@
           "net5.0"
         ],
         "sources": {
-          "E:\\dev\\NugetPackages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

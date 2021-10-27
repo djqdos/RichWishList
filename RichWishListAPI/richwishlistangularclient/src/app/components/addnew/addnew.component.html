@@ -1,0 +1,8 @@
+<div>
+    <form [formGroup]="addNewItemForm" (ngSubmit)="onSubmit()">
+        <input type="text" id="itemName" name="itemName" placeholder="Add New Item"  formControlName="itemName"/>
+        <input type="number" id="quantity" name="quantity" placeholder="Add quantity" formControlName="quantity" />
+
+        <button id="addnew" type="submit">Add New Item</button>
+    </form>
+</div>
